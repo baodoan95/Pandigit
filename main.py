@@ -41,4 +41,4 @@ def largestPan(x, n):
 
 
 if __name__ == "__main__":
-    print(largestPan(2, 12))  # test case 9 is int and x is range for list
+    print(largestPan(192, 3))  # test case 9 is int and x is range for list
